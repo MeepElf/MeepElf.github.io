@@ -1,4 +1,4 @@
-theme: "jekyll-theme-cayman"  # Temporarily use this basic theme to test
+theme: "jekyll-theme-minimal"  # Temporarily use this basic theme to test
 title: "Melvin Yu's Portfolio"
 description: "Showcase of my work"
 author:
